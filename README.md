@@ -1,6 +1,6 @@
 # mce-data-ccsa
 
-This repository contains climate model data processed from output of the Coupled Model Intercomparison Project phase 5 (CMIP5) and phase 6 (CMIP6). The data files are in netCDF format and to be linked in `mce/data/preproc[12]` of [Minimal CMIP Emulator (MCE)](https://github.com/tsutsui1872/mce).
+This repository contains climate model data processed from output of the Coupled Model Intercomparison Project phase 6 (CMIP6). The data files are in netCDF format and to be linked in `mce/data/preproc[12]` of [Minimal CMIP Emulator (MCE)](https://github.com/tsutsui1872/mce).
 
 `preproc1` contains globally-averaged, yearly-aggregated data for the top-of-atmosphere energy imbalance (`rtnt`) and the surface air temperature (`tas`); `preproc2` contains their anomaly data. File names are in the following format:
 ```
